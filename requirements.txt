@@ -1,0 +1,7 @@
+streamlit
+langchain
+openai
+pydub
+streamlit_mic_recorder
+google-api-python-client
+google-auth
