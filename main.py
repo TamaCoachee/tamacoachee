@@ -126,7 +126,10 @@ def main():
         st.write(
     """
     👋 Welkom bij Tamacoachee. Je neemt in dit gesprek de rol aan van een coach.
-    Malika komt bij je langs om de problemen te bespreken die zij ervaart gedurende haar studie. Probeer te achterhalen waar Malika tegenaan loopt, en help haar verder opweg.
+    Anna komt bij je langs om de problemen te bespreken die zij ervaart gedurende haar studie. Probeer te achterhalen waar ze tegenaan loopt, en help haar verder opweg.
+    Je kan je antwoorden inspreken met de knop "Start recording" of typen.
+    Je kan het gesprek afronden met de knop "Genereer feedback"
+    Het kan soms even duren voordat je antwoord er is. Bovenin zie je een indicatie dat het systeem nog bezig is.
     """
     )
         st.markdown(''':red[Vul links je studentnummer in om het gesprek te kunnen starten!]''')
