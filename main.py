@@ -111,6 +111,19 @@ def create_chat_area(chat_history):
         with st.chat_message(role):
             st.write(chat['content'])
 
+############ Chat-GPT solution #############
+# Initialize session state for button
+if 'button_clicked' not in st.session_state:
+    st.session_state['button_clicked'] = False
+
+def record_audio():
+    st.session_state['button_clicked'] = True
+    audio_data = st.audio_input("Record your message")
+    if audio_data:
+        # Process the audio data
+        st.write("Audio data received")
+############ Chat-GPT solution #############
+
 # Main function to run the Streamlit app
 def main():
     # Streamlit settings
@@ -201,7 +214,18 @@ def run_chat_interface():
     
     # Display User speech record button
     if studentnumber:
-        text=WhisperSTT(openai_api_key=apikey, language='nl')
+
+        ############ Chat-GPT solution #############
+       # text=WhisperSTT(openai_api_key=apikey, language='nl')
+        if not st.session_state['button_clicked']:
+            if st.button('Record Audio'):
+                record_audio()
+        else:
+            st.write("Audio has been recorded.")
+            if st.button('Record Again'):
+                st.session_state['button_clicked'] = False
+
+        ############ Chat-GPT solution #############
     else:
         pass
     
@@ -238,6 +262,9 @@ def run_chat_interface():
         
     # Handle user speech input and generate AI response
     if studentnumber:
+         ############ Chat-GPT solution #############
+        text=WhisperSTT(openai_api_key=apikey, language='nl')
+         ############ Chat-GPT solution #############
         if text:
             process_user_speech(text, studentnumber)
     else:
