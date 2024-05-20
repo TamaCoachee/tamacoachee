@@ -138,7 +138,7 @@ def main():
     with col1:
         st.write(
     """
-    👋 20/5/'24 Welkom bij Tamacoachee. Je neemt in dit gesprek de rol aan van een coach.
+    👋 20/5/'24 15:21 Welkom bij Tamacoachee. Je neemt in dit gesprek de rol aan van een coach.
     Anna komt bij je langs om de problemen te bespreken die zij ervaart gedurende haar studie. Probeer te achterhalen waar ze tegenaan loopt, en help haar verder opweg.
     Je kan je antwoorden inspreken met de knop "Start recording" of typen.
     Je kan het gesprek afronden met de knop "Genereer feedback"
