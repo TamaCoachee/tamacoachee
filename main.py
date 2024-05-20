@@ -121,7 +121,7 @@ def record_audio():
     audio_data = st.audio_input("Record your message")
     if audio_data:
         # Process the audio data
-        st.write("Audio data received")
+      #  st.write("Audio data received")
 ############ Chat-GPT solution #############
 
 # Main function to run the Streamlit app
@@ -221,7 +221,7 @@ def run_chat_interface():
             if st.button('Record Audio'):
                 record_audio()
         else:
-            st.write("Audio has been recorded.")
+           # st.write("Audio has been recorded.")
             if st.button('Record Again'):
                 st.session_state['button_clicked'] = False
 
