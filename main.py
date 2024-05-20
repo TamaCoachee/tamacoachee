@@ -218,7 +218,8 @@ def run_chat_interface():
         ############ Chat-GPT solution #############
        # text=WhisperSTT(openai_api_key=apikey, language='nl')
         if not st.session_state['button_clicked']:
-            if st.button('Record Audio'):
+            # if st.button('Record Audio'):
+            if st.button('***'):
                 record_audio()
         else:
            # st.write("Audio has been recorded.")
