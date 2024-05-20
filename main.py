@@ -121,7 +121,7 @@ def record_audio():
     audio_data = st.audio_input("Record your message")
     if audio_data:
         # Process the audio data
-      #  st.write("Audio data received")
+        st.write("...")
 ############ Chat-GPT solution #############
 
 # Main function to run the Streamlit app
