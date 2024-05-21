@@ -138,11 +138,10 @@ def main():
     with col1:
         st.write(
     """
-    👋 20/5/'24 15:21 Welkom bij Tamacoachee. Je neemt in dit gesprek de rol aan van een coach.
-    Anna komt bij je langs om de problemen te bespreken die zij ervaart gedurende haar studie. Probeer te achterhalen waar ze tegenaan loopt, en help haar verder opweg.
-    Je kan je antwoorden inspreken met de knop "Start recording" of typen.
+    👋 21/5/'24 Je neemt deel aan een experiment. Via de interface kan je vragen stellen aan een andere deelnemer van het experiment.
+    Jullie communiceren via de interface van deze website.
     Je kan het gesprek afronden met de knop "Genereer feedback"
-    Het kan soms even duren voordat je antwoord er is. Bovenin zie je een indicatie dat het systeem nog bezig is.
+    Het kan soms even duren voordat je antwoord verschijnt. Bovenin zie je een indicatie dat het systeem nog bezig is.
     """
     )
         st.markdown(''':red[Vul links je studentnummer in om het gesprek te kunnen starten!]''')
