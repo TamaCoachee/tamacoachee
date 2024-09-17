@@ -146,7 +146,7 @@ def main():
     Druk niet op de andere knoppen!
     """
     )
-        st.markdown(''':red[Vul links je respondentnummer in om het gesprek te kunnen starten!]''')
+        st.markdown(''':red[]''')
     
     st.divider()  
     
