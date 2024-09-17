@@ -138,13 +138,13 @@ def main():
     with col1:
         st.write(
     """
-    👋 21/5/'24 Je neemt deel aan een experiment. Via de interface kan je vragen stellen aan een andere deelnemer van het experiment.
-    Jullie communiceren via de interface van deze website.
-    Je kan het gesprek afronden met de knop "Genereer feedback"
-    Het kan soms even duren voordat je antwoord verschijnt. Bovenin zie je een indicatie dat het systeem nog bezig is.
+    👋 17 / 09 / 2024 - Conditie '02 human'
+    Als je iets wilt zeggen, druk dan op de knop 'Start recording'. Als je klaar bent, druk dan op de knop 'Stop recording'. 
+    Wacht de reactie van de andere gebruiker af, voordat je een reactie geeft.
+    Druk niet op de andere knoppen!
     """
     )
-        st.markdown(''':red[Vul links je studentnummer in om het gesprek te kunnen starten!]''')
+        st.markdown(''':red[Vul links je respondentnummer in om het gesprek te kunnen starten!]''')
     
     st.divider()  
     
