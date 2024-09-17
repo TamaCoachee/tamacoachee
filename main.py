@@ -182,7 +182,7 @@ def run_chat_interface():
     # Conversation control buttons in sidebar
     with st.sidebar:
         studentnumber = st.text_input(
-            "Voer je studentnummer in 👇",
+            "Voer je respondentnummer in 👇",
             placeholder='123456',
         )    
         st.markdown('---')
