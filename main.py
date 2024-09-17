@@ -138,7 +138,7 @@ def main():
     with col1:
         st.write(
     """
-    👋 17 / 09 / 2024 - Conditie '02 human'
+    👋 17 / 09 / 2024 - Conditie '02 human'<br>
     Als je iets wilt zeggen, druk dan op de knop 'Start recording'. Als je klaar bent, druk dan op de knop 'Stop recording'. 
     Wacht de reactie van de andere gebruiker af, voordat je een reactie geeft.
     Druk niet op de andere knoppen!
