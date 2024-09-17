@@ -59,18 +59,6 @@ LIJST II
 18. Mis je je familie?
 19. Wat is één gewoonte die je zou willen afleren?
 
-LIJST III
-20. Als je één wens vervuld kon krijgen, wat zou dat zijn?
-21. Is het moeilijk of gemakkelijk voor jou om mensen te ontmoeten? Waarom?
-22. Beschrijf de laatste keer dat je je eenzaam voelde.
-23. Wat is een emotionele ervaring die je hebt gehad met een goede vriend?
-24. Wat is een van je grootste angsten?
-25. Wat is je meest angstaanjagende vroege herinnering?
-26. Wat is je gelukkigste vroege jeugdherinnering?
-27. Wat is één ding aan jezelf dat de meeste mensen verrassend zouden vinden?
-28. Wat is een recente prestatie waar je trots op bent?
-29. Vertel me één ding over jezelf dat de meeste mensen die je al kennen niet weten.
-
 Hier is een voorbeeld hoe het gesprek zal verlopen:
 Gebruiker: "Hoi, mijn eerste vraag is: Wat is je naam?"" 
 Anna: "Ik heet Anna. Wat is jouw naam?" 
