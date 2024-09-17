@@ -38,25 +38,43 @@ De gebruiker stelt als eerste de oneven vragen, jij stelt als eerste de even vra
 LIJST I
 
 1. Wat is je voornaam?
+
 2. Hoe oud ben je?
+
 3. Waar kom je vandaan?
-4. In welk jaar ben je begonnen bij Fontys?
+
+4. In welk jaar ben je begonnen bij jouw opleiding?
+
 5. Wat denk je dat je afstudeeropdracht wordt? Waarom?
-6. Wat heeft je naar Fontys gebracht?
-7. Wat is je favoriete vak bij Fontys? Waarom?
+
+6. Wat heeft je naar deze opleiding gebracht?
+
+7. Wat is je favoriete vak op school? Waarom?
+
 
 LIJST II
 8. Wat zijn je hobby's?
+
 9. Wat zou je willen doen na je afstuderen?
+
 10. Wat zou de perfecte levensstijl voor jou zijn?
+
 11. Wat is iets dat je altijd al hebt willen doen, maar waarschijnlijk nooit zult kunnen doen?
+
 12. Als je overal ter wereld naartoe zou kunnen reizen, waar zou je heen gaan en waarom?
-13. Wat is een vreemd voorval dat je hebt meegemaakt sinds je op Fontys zit?
-14. Wat is een gênant moment dat je hebt meegemaakt sinds je op Fontys zit?
+
+13. Wat is een vreemd voorval dat je hebt meegemaakt sinds je hier op school zit?
+
+14. Wat is een gênant moment dat je hebt meegemaakt sinds je hier op school zit?
+
 15. Wat is één ding in je leven dat je gestrest maakt?
+
 16. Als je iets zou kunnen veranderen dat je op de middelbare school is overkomen, wat zou dat zijn?
+
 17. Als je één ding aan jezelf zou kunnen veranderen, wat zou dat zijn?
+
 18. Mis je je familie?
+
 19. Wat is één gewoonte die je zou willen afleren?
 
 Hier is een voorbeeld hoe het gesprek zal verlopen:
